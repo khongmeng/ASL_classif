@@ -1,0 +1,33 @@
+numpy==1.26.4
+pillow
+matplotlib
+opencv-python-headless
+
+pandas
+scipy
+scikit-learn
+scikit-image
+tqdm
+
+torchvision
+torchaudio
+torchmetrics
+
+# augmentations
+albumentations
+
+# visualization
+seaborn
+
+# notebook
+jupyterlab
+notebook
+ipykernel
+nbconvert
+
+# utilities
+imageio
+python-docx
+timm
+
+kagglehub

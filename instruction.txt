@@ -1,0 +1,20 @@
+# Building Docker image
+
+docker build -t vision-ai:asl_classif .
+
+# Rebuilt docker image
+
+docker build --no-cache -t vision-ai:asl_classif .
+
+
+# Running Docker image
+
+docker run --rm -it --gpus all \
+  -p 8888:8888 \
+  -v /mnt/d/UST/Class/ASL_classif:/workspace \
+  vision-ai:asl_classif
+
+
+# Starting Jupyter Notebook
+
+jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root
