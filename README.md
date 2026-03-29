@@ -13,7 +13,8 @@ This project to be as part of UST Vision AI SEIS766 and collab with other part o
 - make sure to check data as there can be multiple copy of same data (image) exist in subfolder. Cleaning up or chosing a right path is necessary.
 
 ## Achitecture
-- will add later on.
+- Transfer Learning: RESNET18 and mobilenet_v3_small.
+- will add more detail later on.
 
 ## Results
 ![Examples of Dataset](docs/images/dataset_samples.png)
