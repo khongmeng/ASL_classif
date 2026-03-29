@@ -4,7 +4,7 @@
 This project to be as part of UST Vision AI SEIS766 and collab with other part of teammate. 
 
 ## Setup
-- Have Docker service available then build/run docker image. Can use instruction.txt as a guideline.
+- Have Docker service available then build/run docker image. Can use instruction.txt as a guideline (besure to modify path, parameter as necessary).
 - If wish not to use Docker, Make sure to have all packages listed on requirements.txt and Dockerfile.
 
 ## Dataset
