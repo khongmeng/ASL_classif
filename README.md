@@ -16,11 +16,9 @@ This project to be as part of UST Vision AI SEIS766 and collab with other part o
 - will add later on.
 
 ## Results
-Include:
 ![Examples of Dataset](docs/images/dataset_samples.png)
 ![Training Curve](docs/images/training_curve.png)
 ![Confusion Matrix](docs/images/conf_matrix.png)
-![Example of prediction](docs/images/example_prediction.png)
 
 ## Example Outputs
 ![Example of prediction](docs/images/example_prediction.png)
