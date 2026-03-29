@@ -3,3 +3,8 @@ data/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+.Trash-0/
+
+# models
+*.pth
